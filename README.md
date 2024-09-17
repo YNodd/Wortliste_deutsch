@@ -1,6 +1,6 @@
 # German Wordlist, based on LOD.lu
 
-This is a German wordlist, which I extracted from the content of www.LOD.lu (Luxemburgish online dictionary).
+This is an (unsorted) German wordlist, which I extracted from the content of www.LOD.lu (Luxemburgish online dictionary).
 It is a simple word list without conjugations / declensions.
 
 It is based on an older xml-file found on https://data.public.lu, which is unfortunately no more available.
@@ -14,7 +14,7 @@ If you want your words cleaned in a different way, you can adjust the python-cod
 
 # Deutsche Wortliste, basierend auf LOD.lu
 
-Dies ist eine deutsche Wortliste, die ich aus dem Inhalt von www.LOD.lu (Luxemburger Online-Wörterbuch) extrahiert habe.
+Dies ist eine (unsortierte) deutsche Wortliste, die ich aus dem Inhalt von www.LOD.lu (Luxemburger Online-Wörterbuch) extrahiert habe.
 Es handelt sich um eine einfache Wortliste ohne Konjugationen / Deklinationen.
 
 Sie basiert auf einer älteren xml-Datei auf https://data.public.lu, die leider nicht mehr verfügbar ist.
