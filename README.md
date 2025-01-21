@@ -1,6 +1,6 @@
 # German Wordlist, based on LOD.lu
 
-This is an (unsorted) German wordlist, which I extracted from the content of www.LOD.lu (Luxemburgish online dictionary).
+This is an (unsorted) German wordlist, which I extracted from the content of www.LOD.lu (Luxembourgish online dictionary).
 It is a simple word list without conjugations / declensions.
 
 It is based on an older xml-file found on https://data.public.lu, which is unfortunately no more available.
@@ -21,6 +21,8 @@ Sie basiert auf einer älteren xml-Datei auf https://data.public.lu, die leider 
 Ähnliche neuere Dateien mit dem kompletten LOD-Inhalt finden Sie hier:
 https://data.public.lu/en/datasets/letzebuerger-online-dictionnaire-lod-index-vun-der-sich-funktioun/
 
-In der nicht bereinigten Basis-Liste sind alle extrahierten Wörter. Die andere Liste ist bereinigt und enthält keine Leerzeichen oder "-" in den Wörtern.
+In der nicht bereinigten Basis-Liste sind alle extrahiertn Wörter. Die andere Liste ist bereinigt und enthält keine Leerzeichen oder "-" in den Wörtern.
 Wenn Sie Ihre Wörter auf eine andere Weise bereinigen möchten, können Sie einfach den Python-Code an Ihre Bedürfnisse anpassen.
+
+
 
