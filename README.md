@@ -21,6 +21,6 @@ Sie basiert auf einer älteren xml-Datei auf https://data.public.lu, die leider 
 Ähnliche neuere Dateien mit dem kompletten LOD-Inhalt finden Sie hier:
 https://data.public.lu/en/datasets/letzebuerger-online-dictionnaire-lod-index-vun-der-sich-funktioun/
 
-In der nicht bereinigten Basis-Liste sind alle extrahiertn Wörter. Die andere Liste ist bereinigt und enthält keine Leerzeichen oder "-" in den Wörtern.
+In der nicht bereinigten Basis-Liste sind alle extrahierten Wörter. Die andere Liste ist bereinigt und enthält keine Leerzeichen oder "-" in den Wörtern.
 Wenn Sie Ihre Wörter auf eine andere Weise bereinigen möchten, können Sie einfach den Python-Code an Ihre Bedürfnisse anpassen.
 
